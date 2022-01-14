@@ -1,6 +1,6 @@
 {
     "name": "react-native-qrcode-local-image",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "qrcode-local-imagecription": "A local qrcode image parse for react-native",
     "main": "index.js",
     "author": {
