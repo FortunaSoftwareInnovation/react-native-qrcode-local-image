@@ -18,12 +18,12 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/remobile/react-native-qrcode-local-image",
+    "homepage": "https://github.com/FortunaSoftwareInnovation/react-native-qrcode-local-image",
     "bugs": {
-        "url": "https://github.com/remobile/react-native-qrcode-local-image/issues"
+        "url": "https://github.com/FortunaSoftwareInnovation/react-native-qrcode-local-image/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-qrcode-local-image.git"
+        "url": "git://github.com/FortunaSoftwareInnovation/react-native-qrcode-local-image.git"
     }
 }
